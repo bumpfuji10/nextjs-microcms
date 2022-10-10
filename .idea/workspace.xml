@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="adac4028-1f42-4552-a151-caa49e01fbf7" name="Changes" comment="yarn.lock戻す" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FwqP48YmM3xDFnoKahszig7CW5" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/kamadayo/kamadayo/dev/ReactProjects/nextjs-microcms",
+    "nodejs_package_manager_path": "yarn",
+    "ruby.rails.projectView.checked": "true",
+    "ts.external.directory.path": "/Users/kamadayo/kamadayo/dev/ReactProjects/nextjs-microcms/node_modules/typescript/lib"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adac4028-1f42-4552-a151-caa49e01fbf7" name="Changes" comment="" />
+      <created>1665413467196</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665413467196</updated>
+      <workItem from="1665413468650" duration="2970000" />
+    </task>
+    <task id="LOCAL-00001" summary="👀initialize">
+      <created>1665415054429</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665415054429</updated>
+    </task>
+    <task id="LOCAL-00002" summary="👀initialize">
+      <created>1665415256081</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665415256081</updated>
+    </task>
+    <task id="LOCAL-00003" summary="👀initialize">
+      <created>1665415269907</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665415269907</updated>
+    </task>
+    <task id="LOCAL-00004" summary="yarn.lock戻す">
+      <created>1665415527267</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665415527267</updated>
+    </task>
+    <task id="LOCAL-00005" summary="yarn.lock戻す">
+      <created>1665415570927</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665415570927</updated>
+    </task>
+    <task id="LOCAL-00006" summary="yarn.lock戻す">
+      <created>1665415652247</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1665415652247</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initialize" />
+    <MESSAGE value="yarn.lock戻す" />
+    <option name="LAST_COMMIT_MESSAGE" value="yarn.lock戻す" />
+  </component>
+</project>
